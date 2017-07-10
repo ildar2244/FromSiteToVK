@@ -2,25 +2,25 @@ import vk_photos_load
 
 # region PEREMEN
 # For ALBUM
-title_alb1 = 'Ортезы на бедро'
-title_alb2 = 'Наколенники'
-about_alb1 = 'Приспособления для стопы; Голеностопы. Легкая степень фиксации; Голеностопы. Полужесткая фиксация; Голеностопы. Жесткая фиксация'
-about_alb2 = 'Наколенники. Легкая фиксация; Наколенники. Полужесткая фиксация; Наколенники. Жесткая фиксация'
+title_alb1 = 'Альбом1'
+title_alb2 = 'Альбом2'
+about_alb1 = 'Описание альбома1'
+about_alb2 = 'Описание альбома2'
 titles_alb = [title_alb1, title_alb2]
 abouts_alb = [about_alb1, about_alb2]
 
 # For PHOTOS
-url_img1 = 'http://www.dobrota.ru//UserFiles/Image/new2/img2072_20109s.jpg'
-url_img2 = 'http://www.dobrota.ru//UserFiles/Image/img2071_31515s.jpg'
-about_img1 = 'Эластичный бурсопротектор Altis Plus - 999руб'
-about_img2 = 'Эластичная лента для отведения первого пальца стопы - 1999руб'
+url_img1 = 'ссылка на картинку1'
+url_img2 = 'ссылка на картинку2'
+about_img1 = 'картинка1'
+about_img2 = 'картинка2'
 urls_img1 = [url_img1, url_img2]
 abouts_img1 = [about_img1, about_img2]
 
-url_img3 = 'http://www.dobrota.ru//UserFiles/Image/img9339_39867s.jpg'
-url_img4 = 'http://www.dobrota.ru//UserFiles/Image/new1/img2019_54578s.jpg'
-about_img3 = 'Наколенник ортопедический согревающий легкой фиксации П-0802 - 369руб'
-about_img4 = 'Наколенник эластичный КОЛЭ-АЛЕФ - 419руб'
+url_img3 = 'ссылка на картинку3'
+url_img4 = 'ссылка на картинку4'
+about_img3 = 'картинка3'
+about_img4 = 'картинка4'
 urls_img3 = [url_img3, url_img4]
 abouts_img3 = [about_img3, about_img4]
 
